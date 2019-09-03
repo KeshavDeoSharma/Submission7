@@ -1,0 +1,16 @@
+@charset "ISO-8859-1";
+body {
+		  
+		  padding-top: 4.5rem;
+		}
+ .color-b{
+	 background-color:#004061;
+	
+     color: #ffffff;
+ }
+ .link-color{
+	 color: #1071a3;
+ }
+ #AsID{
+ width:75%;}
+ 
